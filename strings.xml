@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Artemis Mobile</string>
+    <string name="accessibility_description">Permite ejecutar acciones de automatización solicitadas por el usuario. Actívalo solo si comprendes el acceso a pantalla.</string>
+</resources>
